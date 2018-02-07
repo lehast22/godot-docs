@@ -84,7 +84,7 @@ yet it detects types and offers a static-language's quality of auto-completion.
 It's also optimized for gameplay code with built-in types like Vectors, Colors, etc.
 
 Note that with GDNative, you can write high performance code using compiled
-languages like C, C++, Rust or Python (Cython compiler) without recompiling
+languages like C, C++, D, Rust or Python (Cython compiler) without recompiling
 the engine.
 
 
